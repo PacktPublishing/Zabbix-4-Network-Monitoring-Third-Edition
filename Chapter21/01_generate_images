@@ -1,0 +1,4 @@
+for imagenum in {01..50}; do
+    convert -font DejaVu-Sans-Mono-Bold -gravity center -size 52x24 -background transparent -pointsize 32 label:"$imagenum" "$imagenum".png
+done
+
