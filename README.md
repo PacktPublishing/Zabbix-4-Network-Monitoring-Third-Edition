@@ -50,7 +50,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Network Scanning Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/network-scanning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789346480) [[Amazon]](https://www.amazon.com/dp/1789346487)
 
 * Practical Network Automation - Second Edition [[Packt]](https://www.packtpub.com/networking-and-servers/practical-network-automation-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789955651) [[Amazon]](https://www.amazon.com/dp/1789955653)
-## Get to Know the Author
+## Get to Know the Authors
 **Patrik Uytterhoeven**
  has over 16 years of experience in IT, mostly with HP UNIX and Red Hat Linux. In late 2012, he joined Open-Future, a leading open source integrator and the first Zabbix reseller and training partner in Belgium. When Patrik joined Open-Future, he also became a Zabbix certified trainer. Since then, he has provided training and public demonstrations around the world, from Belgium to America and Asia. His next step was to author a book, so the first Zabbix Cookbook was born. Because Patrik also has a deep interest in configuration management, he wrote some Ansible roles. Patrik was also a technical reviewer of Learning Ansible and Ansible Configuration Management, both published by Packt Publishing.
  
