@@ -1,6 +1,6 @@
 # Zabbix-4-Network-Monitoring-Third-Edition
 
-<a href="https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266"><img src="https://www.packtpub.com/sites/default/files/B11039.png" alt="Zabbix 4 Network Monitoring Third Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266"><img src="https://www.packtpub.com/sites/default/files/B11039_0.png" alt="Zabbix 4 Network Monitoring Third Edition" height="256px" align="right"></a>
 
 This is the code repository for [Zabbix 4 Network Monitoring Third Edition](https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266), published by Packt.
 
